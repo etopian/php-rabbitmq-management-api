@@ -11,7 +11,7 @@ Installation
 Installable through composer via:
 
 ```bash
-$ composer require richardfullmer/rabbitmq-management-api
+$ composer require etopian/rabbitmq-management-api
 ```
 
 Additionally, you require a [httplug compatible client](http://docs.php-http.org/en/latest/clients.html).
